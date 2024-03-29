@@ -57,7 +57,8 @@ int main(){
             cout<<"0. Exit"<<endl;
             cout<<"1. Volume with the default values"<<endl;
             cout<<"2. Volume with a same value for Length, width, height"<<endl;
-            cout<<"0. Volume with the different values for Length, width, height"<<endl;
+            cout<<"3. Volume with the different values for Length, width, height"<<endl;
+            cout<<"Enter the choice";
             cin>>choice;
             switch(choice){
                             
